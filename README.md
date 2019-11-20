@@ -1,0 +1,1 @@
+A solution to that problem that constantly plagues developers - how to determine if a given string is a valid palindrome, disregarding case and punctuation. 
